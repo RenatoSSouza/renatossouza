@@ -10,9 +10,10 @@ Estou sempre buscando aprender e enfrentar novos desafios para continuar aprimor
 
 ## Como Entrar em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ressouza/   "target=&quot;_blank&quot;")
+<a href="https://www.linkedin.com/in/ressouza/" target="_blank" rel="nofollow">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" alt="LinkedIn" ></a>
 
-## Interessado em Colaborar?
+Interessado em Colaborar?
 
 Estou sempre aberto a novas oportunidades de colaboração e projetos interessantes. Se você estiver procurando por um parceiro para projetos, não hesite em entrar em contato!
 
