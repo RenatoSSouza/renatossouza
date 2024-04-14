@@ -10,7 +10,7 @@ Estou sempre buscando aprender e enfrentar novos desafios para continuar aprimor
 
 ## Como Entrar em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ressouza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ressouza/   "target=&quot;_blank&quot;")
 
 ## Interessado em Colaborar?
 
