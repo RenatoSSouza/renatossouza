@@ -4,7 +4,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 
 ## Experiência e Habilidades
 
-Tenho experiência no desenvolvimento de sistemas integrados usando .NET 6 e React, em colaboração com um sistema backend em Python. 
+Tenho experiência no desenvolvimento de sistemas integrados usando .NET 6 e React, em colaboração com um sistema backend em Python.
 
 Estou sempre buscando aprender e enfrentar novos desafios para continuar aprimorando minhas habilidades e contribuir para o sucesso de futuros projetos.
 
