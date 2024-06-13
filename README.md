@@ -21,5 +21,5 @@ Estou sempre aberto a novas oportunidades de colaboração e projetos interessan
 
 Obrigado por dedicar um tempo para conhecer um pouco mais sobre mim. Estou ansioso para conectar e colaborar com você!
 
-![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoSSouza&theme=transparent&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoSSouza&hide_progress=false&theme=transparent&langs_count=10&layout=donut)
+![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoSSouza&theme=transparent&show_icons=true&hide_border=true&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoSSouza&hide_progress=false&theme=transparent&langs_count=10&layout=donut&hide_border=true&card_width=500)
