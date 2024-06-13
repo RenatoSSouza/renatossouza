@@ -21,8 +21,5 @@ Estou sempre aberto a novas oportunidades de colaboração e projetos interessan
 
 Obrigado por dedicar um tempo para conhecer um pouco mais sobre mim. Estou ansioso para conectar e colaborar com você!
 
-<div >
-  <a href="https://github.com/RenatoSSouza">
-    <img loading="lazy" align="center" height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoSSouza&bg_color=282A36&title_color=f7f7f7&text_color=f7f7f7&border_color=6272A4&border_radius=10&locale=pt-br&layout=compact&card_width=100&"/>
-    <img loading="lazy" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoSSouza&show_icons=true&bg_color=282A36&title_color=f7f7f7&text_color=f7f7f7&border_color=6272A4&include_all_commits=true&count_private=true&border_radius=15&locale=pt-br&rank_icon=percentile&ring_color=D4AF37"/>
-</div>
+![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoSSouza&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoSSouza&hide_progress=false&theme=transparent&langs_count=10&layout=donut)
