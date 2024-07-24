@@ -1,6 +1,13 @@
 # Olá! Eu sou Renato Souza
 
-Desenvolvedor de Software | .NET | React | Python
+Desenvolvedor de Software
+![.NET 6](https://img.shields.io/badge/.NET-6.0-purple)
+![.NET 8](https://img.shields.io/badge/.NET-8.0-purple)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Postgres](https://img.shields.io/badge/Postgres-16-green)
+![Redis](https://img.shields.io/badge/Redis-cache-red)
+![Docker](https://img.shields.io/badge/Docker-Container-darkblue)
+![Git](https://img.shields.io/badge/Git-versioning-darkred)
 
 ---
 
@@ -30,7 +37,8 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 
 ## Contato
 
-- **LinkedIn**: [linkedin.com/in/ressouza](https://www.linkedin.com/in/ressouza/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/ressouza/)
+
 <!-- - **E-mail**: [seu.email@dominio.com](mailto:seu.email@dominio.com) -->
 
 ---
@@ -46,7 +54,6 @@ Obrigado por visitar meu perfil. Estou ansioso para conectar e colaborar com voc
 ---
 
 Renato Souza
-
 
 <!-- ![Renato's GitHub stats](https://github-readme-stats-seven-azure.vercel.app/api?username=renatossouza&theme=transparent&show_icons=true&hide_border=true&card_width=150&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-seven-azure.vercel.app/api/top-langs/?username=renatossouza&hide_progress=false&theme=transparent&layout=donut&hide_border=true&card_width=150&count_private=true&include_all_commits=true) -->
