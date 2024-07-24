@@ -1,12 +1,19 @@
 # Olá! Eu sou Renato Souza
 
 Desenvolvedor de Software
-![.NET 6](https://img.shields.io/badge/.NET-6.0-purple\n)
+
+![.NET 6](https://img.shields.io/badge/.NET-6.0-purple)
+
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-purple)
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
+
 ![Postgres](https://img.shields.io/badge/Postgres-16-green)
+
 ![Redis](https://img.shields.io/badge/Redis-cache-red)
+
 ![Docker](https://img.shields.io/badge/Docker-Container-darkblue)
+
 ![Git](https://img.shields.io/badge/Git-versioning-darkred)
 
 ---
