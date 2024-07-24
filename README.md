@@ -30,7 +30,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 
 ## Contato
 
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/ressouza/)
+- **LinkedIn**: [linkedin.com/in/ressouza](https://www.linkedin.com/in/ressouza/)
 <!-- - **E-mail**: [seu.email@dominio.com](mailto:seu.email@dominio.com) -->
 
 ---
