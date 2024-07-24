@@ -1,25 +1,52 @@
 # Olá! Eu sou Renato Souza
 
-Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu objetivo é criar soluções que resolvam problemas de forma eficiente e impactem positivamente a vida das pessoas.
+Desenvolvedor de Software | .NET | React | Python
+
+---
+
+## Sobre Mim
+
+Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu objetivo é criar soluções que resolvam problemas de forma eficiente e impactem positivamente a vida das pessoas. Com uma sólida experiência em desenvolvimento de sistemas integrados e uma constante busca por aprendizado, estou sempre pronto para enfrentar novos desafios.
+
+---
 
 ## Experiência e Habilidades
 
-Tenho experiência no desenvolvimento de sistemas integrados usando .NET 6 e React, em colaboração com um sistema backend em Python.
+- **.NET 6**: Desenvolvimento de sistemas integrados e APIs robustas.
+- **React**: Criação de interfaces de usuário interativas e dinâmicas.
+- **Python**: Desenvolvimento de backend e automação de processos.
+- **SQL**: Gerenciamento de banco de dados e otimização de consultas.
+- **Git**: Controle de versão e colaboração em equipe.
 
-Estou sempre buscando aprender e enfrentar novos desafios para continuar aprimorando minhas habilidades e contribuir para o sucesso de futuros projetos.
+---
 
-## Como Entrar em Contato
+<!-- ## Projetos Destacados
 
-<a href="https://www.linkedin.com/in/ressouza/" target="_blank" rel="nofollow">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" alt="LinkedIn" ></a>
+- **Projeto A**: [Descrição breve do projeto e tecnologias utilizadas]
+- **Projeto B**: [Descrição breve do projeto e tecnologias utilizadas]
+- **Projeto C**: [Descrição breve do projeto e tecnologias utilizadas]
 
-Interessado em Colaborar?
+--- -->
 
-Estou sempre aberto a novas oportunidades de colaboração e projetos interessantes. Se você estiver procurando por um parceiro para projetos, não hesite em entrar em contato!
+## Contato
 
-## Obrigado por Visitar!
+- **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/ressouza/)
+<!-- - **E-mail**: [seu.email@dominio.com](mailto:seu.email@dominio.com) -->
 
-Obrigado por dedicar um tempo para conhecer um pouco mais sobre mim. Estou ansioso para conectar e colaborar com você!
+---
+
+## Vamos Colaborar?
+
+Estou sempre aberto a novas oportunidades de colaboração e projetos inovadores. Se você estiver procurando um parceiro para projetos, sinta-se à vontade para entrar em contato!
+
+---
+
+Obrigado por visitar meu perfil. Estou ansioso para conectar e colaborar com você!
+
+---
+
+Renato Souza
+
 
 <!-- ![Renato's GitHub stats](https://github-readme-stats-seven-azure.vercel.app/api?username=renatossouza&theme=transparent&show_icons=true&hide_border=true&card_width=150&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-seven-azure.vercel.app/api/top-langs/?username=renatossouza&hide_progress=false&theme=transparent&layout=donut&hide_border=true&card_width=150&count_private=true&include_all_commits=true) -->
