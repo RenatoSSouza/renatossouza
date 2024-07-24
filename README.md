@@ -58,9 +58,6 @@ Estou sempre aberto a novas oportunidades de colaboração e projetos inovadores
 
 Obrigado por visitar meu perfil. Estou ansioso para conectar e colaborar com você!
 
----
-
-Renato Souza
 
 <!-- ![Renato's GitHub stats](https://github-readme-stats-seven-azure.vercel.app/api?username=renatossouza&theme=transparent&show_icons=true&hide_border=true&card_width=150&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-seven-azure.vercel.app/api/top-langs/?username=renatossouza&hide_progress=false&theme=transparent&layout=donut&hide_border=true&card_width=150&count_private=true&include_all_commits=true) -->
