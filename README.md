@@ -4,7 +4,7 @@ Desenvolvedor de Software
 
 ![.NET 6](https://img.shields.io/badge/.NET-6.0-purple)
 
-![.NET 8](https://img.shields.io/badge/.NET-8.0-darkpurple)
+![.NET 8](https://img.shields.io/badge/.NET-8.0-purple)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 
