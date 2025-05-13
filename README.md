@@ -8,7 +8,7 @@ Desenvolvedor de Software
 
 ![.NET 9](https://img.shields.io/badge/.NET-9.0-purple)
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 
 ![Postgres](https://img.shields.io/badge/Postgres-16-green)
 
