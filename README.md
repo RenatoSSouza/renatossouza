@@ -1,6 +1,7 @@
 # Olá! Eu sou Renato Souza
 
 Desenvolvedor de Software
+
 ![.NET](https://img.shields.io/badge/.NET-10.0-purple)
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
