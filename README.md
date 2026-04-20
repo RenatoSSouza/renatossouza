@@ -24,7 +24,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 
 ## Experiência e Habilidades
 
-- **.NET 6**: Desenvolvimento de sistemas integrados e APIs robustas.
+- **.NET**: Desenvolvimento de sistemas integrados e APIs robustas.
 - **React**: Criação de interfaces de usuário interativas e dinâmicas.
 - **Python**: Desenvolvimento de backend e automação de processos.
 - **SQL**: Gerenciamento de banco de dados e otimização de consultas.
